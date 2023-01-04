@@ -1,14 +1,14 @@
 import React from "react";
 
-const Card=()=>{
-return(
-<div className=" bg-green-300 border h-24">
+const Card=(props)=>{
 
-
+return (
+<div className=" ">
+{props.children}
 </div>
 
-)
 
+)
 
 }
 export default Card;
