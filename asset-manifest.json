@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mohammadjalizi/react-p/static/css/main.934d08c8.css",
+    "main.js": "/mohammadjalizi/react-p/static/js/main.9ad2402e.js",
+    "static/js/787.633816a4.chunk.js": "/mohammadjalizi/react-p/static/js/787.633816a4.chunk.js",
+    "index.html": "/mohammadjalizi/react-p/index.html",
+    "main.934d08c8.css.map": "/mohammadjalizi/react-p/static/css/main.934d08c8.css.map",
+    "main.9ad2402e.js.map": "/mohammadjalizi/react-p/static/js/main.9ad2402e.js.map",
+    "787.633816a4.chunk.js.map": "/mohammadjalizi/react-p/static/js/787.633816a4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.934d08c8.css",
+    "static/js/main.9ad2402e.js"
+  ]
+}
